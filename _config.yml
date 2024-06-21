@@ -10,21 +10,24 @@
 ############################
 
 # Name of website
-title: My website
+title: Judy's Portfolio
 
 # Your name to show in the footer
-author: Some Person
+author: Judy Lin
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "aboutme2"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+   - Writing Samples: "writing_samples"
+   - Gallery: "https://www.instagram.com/miao2bing/"
+   - Technical Writing: "https://github.com/topics/technical-writing"
+   - Beautiful Jekyll: "https://beautifuljekyll.com"
+   
+  Author's home: "https://linchihj.github.io/"
 
 ################
 # --- Logo --- #
@@ -50,14 +53,12 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "lin.chihj@gmail.com"
+  github: "Linchihj"
+  instagram: "miao2bing"
+  linkedin: "judy-lin-44697821"
+  skype: "lin.chihj"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -85,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Judy's RSS
 
 ###########################
 # --- General options --- #
@@ -96,11 +97,12 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  instagram: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://linchihj.github.io/"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -135,16 +137,16 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+text-col: "#666666"
+link-col: "#8000ff"
+hover-col: "#6600ff"
+navbar-col: "#ccccff"
+navbar-text-col: "#666666"
+navbar-border-col: "#aa80ff"
+footer-col: "#ccccff"
+footer-text-col: "#6666ff"
+footer-link-col: "#8533ff"
+footer-hover-col: "#6600ff"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -262,7 +264,7 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
