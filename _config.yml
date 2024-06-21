@@ -58,7 +58,6 @@ social-network-links:
   github: "Linchihj"
   instagram: "miao2bing"
   linkedin: "judy-lin-44697821"
-  skype: "lin.chihj"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -140,7 +139,7 @@ page-col: "#FFFFFF"
 text-col: "#666666"
 link-col: "#8000ff"
 hover-col: "#6600ff"
-navbar-col: "#ccccff"
+navbar-img: "/assets/img/bgimage.png"
 navbar-text-col: "#666666"
 navbar-border-col: "#aa80ff"
 footer-col: "#ccccff"
