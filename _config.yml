@@ -35,7 +35,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/Judy_3 2.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -139,7 +139,7 @@ page-col: "#FFFFFF"
 text-col: "#666666"
 link-col: "#8000ff"
 hover-col: "#6600ff"
-navbar-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/bgimage2.png"
 navbar-text-col: "#666666"
 navbar-border-col: "#aa80ff"
 footer-col: "#ccccff"
@@ -259,7 +259,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Taipei"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
