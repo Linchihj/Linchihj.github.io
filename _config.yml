@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme2"
   Resources:
    - Writing Samples: "writing_samples"
-   - Gallery: "https://www.instagram.com/miao2bing/"
+   - Gallery: "gallery"
    - Technical Writing: "https://github.com/topics/technical-writing"
    - Beautiful Jekyll: "https://beautifuljekyll.com"
    
