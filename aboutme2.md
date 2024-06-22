@@ -3,11 +3,12 @@ layout: page
 title: About me
 subtitle: Why would you want to hire me?
 ---
+![Asian lady holding a cake](assets/img/Judy_3%20copy.jpeg)
 
 My name is Judy Lin. I'm a bilingual technical writer with about six years of experience in the technology industry. I would say my greatest strengths are:
 
 - fast learner
-- language skills: fluent in Chinese and English
+- fluent in Chinese and English
 - ability to work independently as well as with a team
 - proactive
 - passionate about learning best documentation practices

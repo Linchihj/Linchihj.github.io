@@ -35,7 +35,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/Judy_3 2.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -58,7 +58,6 @@ social-network-links:
   github: "Linchihj"
   instagram: "miao2bing"
   linkedin: "judy-lin-44697821"
-  skype: "lin.chihj"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -140,7 +139,7 @@ page-col: "#FFFFFF"
 text-col: "#666666"
 link-col: "#8000ff"
 hover-col: "#6600ff"
-navbar-col: "#ccccff"
+navbar-img: "/assets/img/bgimage2.png"
 navbar-text-col: "#666666"
 navbar-border-col: "#aa80ff"
 footer-col: "#ccccff"
