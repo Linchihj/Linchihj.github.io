@@ -3,7 +3,6 @@ layout: page
 title: About me
 subtitle: Why would you want to hire me?
 ---
-![Asian lady holding a cake](assets/img/Judy_3%20copy.jpeg)
 
 My name is Judy Lin. I'm a bilingual technical writer with about six years of experience in the technology industry. I would say my greatest strengths are:
 
@@ -67,3 +66,5 @@ I've worked on the following types of technical writing projects:
 - Visual Studio Code
 
 For more details about my technical writing journey, see [My Story](my_story.md).
+
+[def]: assets/img/Judy_3%20copy.jpeg
