@@ -8,6 +8,7 @@ share-img: /assets/img/Judy_3 1.png
 tags: [technical writer, career]
 author: Judy Lin
 ---
+Photo by <a href="https://unsplash.com/@wilhelmgunkel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Wilhelm Gunkel</a> on <a href="https://unsplash.com/photos/black-and-white-typewriter-on-white-table-6bibCUj3lfA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 ### My story
 
@@ -24,6 +25,4 @@ Back in high school, I graduated a semester earlier than all my peers from the I
 Identifying as a global nomad, I grew up in several different countries and loved to learn about other people’s cultures and customs from a young age. This is especially helpful when working in multicultural environments, where I tend to adapt quickly. Because I’ve lived abroad for 18 years, I’m bilingual and business fluent in Chinese and English.
 
 In my spare time, I try to hone my knowledge about best documentation practices, and polish coding skills (especially front-end related). I also like to draw and learn about visual design since I enjoy the process of creating text and visual content. My interest in visualization and arts has helped create helpful diagrams and illustrations for user guides and made the communication process with designers much smoother. You may also spot me working on some open-source project documentation during my free time.
-
-Photo by <a href="https://unsplash.com/@wilhelmgunkel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Wilhelm Gunkel</a> on <a href="https://unsplash.com/photos/black-and-white-typewriter-on-white-table-6bibCUj3lfA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
