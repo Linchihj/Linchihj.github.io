@@ -20,7 +20,9 @@ author: Judy Lin
 ###############################################
 
 navbar-links:
-  About Me: "aboutme2"
+  About Me:
+   - "aboutme2"
+   - "my_story"
   Resources:
    - Writing Samples: "writing_samples"
    - Gallery: "gallery"
