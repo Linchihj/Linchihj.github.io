@@ -13,7 +13,7 @@
 title: Judy's Portfolio
 
 # Your name to show in the footer
-author: copy;Judy Lin 2024 all rights reserved
+author: &copy; Judy Lin 2024
 
 ###############################################
 # --- List of links in the navigation bar --- #
