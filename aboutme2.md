@@ -23,9 +23,9 @@ I've worked on the following types of technical writing projects:
 - API docs
 
 ### Company projects I've previously worked on:
-**International companies**: [Ubiquiti](https://ui.com/introduction), [Alibaba Cloud](https://www.alibabacloud.com/en/product/datav?_p_lc=1),[Huawei Cloud](https://www.huaweicloud.com/intl/en-us/), [CSOFT International](https://www.csoftintl.com/?gad_source=1&gclid=Cj0KCQjw4MSzBhC8ARIsAPFOuyWJoiYT1gedIhZhU-Bm4NsuUyY1mfNl0wtocEPpp27G7IaTkFXPoWEaAnbrEALw_wcB)
+**International companies**: [Ubiquiti](https://ui.com/introduction), [Alibaba Cloud](https://www.alibabacloud.com/en/product/datav?_p_lc=1), [Huawei Cloud](https://www.huaweicloud.com/intl/en-us/), [CSOFT International](https://www.csoftintl.com/?gad_source=1&gclid=Cj0KCQjw4MSzBhC8ARIsAPFOuyWJoiYT1gedIhZhU-Bm4NsuUyY1mfNl0wtocEPpp27G7IaTkFXPoWEaAnbrEALw_wcB)
 
-**Taiwanese companies**: [Noodoe](https://www.noodoe.com/),[TXOne Networks](https://www.txone.com/products/cps-protection-platform/sageone/),[inline apps](https://inline.app/), [QNAP](https://www.qnap.com/en-us)
+**Taiwanese companies**: [Noodoe](https://www.noodoe.com/), [TXOne Networks](https://www.txone.com/products/cps-protection-platform/sageone/), [inline apps](https://inline.app/), [QNAP](https://www.qnap.com/en-us)
 
 ### Product guides I've worked on:
 
