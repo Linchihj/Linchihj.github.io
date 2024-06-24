@@ -44,7 +44,7 @@ I've worked on the following types of technical writing projects:
 |-                                   |-                                  | Restaurant customer management software|
 |-                                   |-                                            | User Identity as a Service   |
 
->[!Note] 
+> [!Note] 
 > The restaurant customer management system app includes booking management, online queuing management, table management, customer management, mobile texts, etc.
 
 ### Special coding skills:
