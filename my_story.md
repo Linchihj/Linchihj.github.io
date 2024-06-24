@@ -14,15 +14,15 @@ Photo by <a href="https://unsplash.com/@wilhelmgunkel?utm_content=creditCopyText
 
 At the start of my career, I was a translator and reporting editor in Taiwan’s media sector for seven years before accidentally landing a job in the technology sector. In 2017, I decided to move to Shanghai, China. I  applied for a marketing content project at *CSOFT International* based in Shanghai, China, but once I got there no marketing projects were available. So I bravely volunteered to work on their Alibaba Cloud project. Little did I know what I was getting myself into.
 
-![alt text](/assets/img/shuji_nakamura_judy.jpg "At the height of my media career, I interviewed Nobel Prize laurete Shuji Nakamura. He is known as the father of white Light Emitting Diodes(LEDs).")
+![alt text](/assets/img/shuji_nakamura_judy.jpg "Interviewing Nobel Prize laurete Shuji Nakamura, the father of white Light Emitting Diodes(LEDs).")
 
 I was immediately thrown into the deep end of cloud technology and was on a cloud platform crash course, learning about various database technologies, big data, and data visualization. I was introduced to basic user interface (UI) string and API documentation edits in Shanghai. Since then it has been a long learning process of understanding difficult technical concepts, coding, and various technical terms. Patiently communicating and collaborating with designers, product managers, marketing directors, and engineers to create high-quality help documentation. Sometimes, I get to work and collaborate with a team of writers. Other times I find myself to be the only writer in the company, who is responsible for laying the technical writing foundation and workflows.
 
-[![alt text](CSOFT International supervisors dancing at a Christmas party)](assets/videos/My%20Movie.mp4)
+![alt text](/assets/img/ubiquiti_photo.jpg "Me at a Ubiquiti team build event.")
 
 Through solving many different challenges, I now truly enjoy technical writing. I’m interested in further advancing my career in documenting SaaS applications and open-source software. I find software documentation challenging but at the same time rewarding when difficult concepts are transformed into easy-to-understand information. It is also rewarding to see yourself build up technical documentation from scratch.
 
-![alt text](/assets/img/ubiquiti_photo.jpg "Me at a Ubiquiti team build event.")
+[![alt text]"CSOFT International supervisors dancing at a Christmas party."](assets/videos/My%20Movie.mp4)
 
 I have a track record of being a fast learner, switching from one field to another and quickly picking up required skills as demonstrated by my education trajectory. My undergraduate background is in English literature from one of Taiwan’s most reputable universities, *National Tsing Hua University (NTHU)*. After graduating from NTHU, I continued further studies in the UK at the prestigious *The University of Warwick* and majored in International Relations and East Asian studies for my master's degree.
 

@@ -23,34 +23,35 @@ I've worked on the following types of technical writing projects:
 - API docs
 
 ### Company projects I've previously worked on:
-**International companies**
-- [Ubiquiti](https://ui.com/introduction)
-- [Alibaba Cloud](https://www.alibabacloud.com/en/product/datav?_p_lc=1)
-- [Huawei Cloud](https://www.huaweicloud.com/intl/en-us/)
-- [CSOFT International](https://www.csoftintl.com/?gad_source=1&gclid=Cj0KCQjw4MSzBhC8ARIsAPFOuyWJoiYT1gedIhZhU-Bm4NsuUyY1mfNl0wtocEPpp27G7IaTkFXPoWEaAnbrEALw_wcB)
+| **International companis** | **Taiwanese companies** |
+| [Ubiquiti](https://ui.com/introduction) | [Noodoe](https://www.noodoe.com/)  |
+| [Alibaba Cloud](https://www.alibabacloud.com/en/product/datav?_p_lc=1)  |[TXOne Networks](https://www.txone.com/products/cps-protection-platform/sageone/)  |
+| [Huawei Cloud](https://www.huaweicloud.com/intl/en-us/)  | [inline apps](https://inline.app/)  |
+| [CSOFT International](https://www.csoftintl.com/?gad_source=1&gclid=Cj0KCQjw4MSzBhC8ARIsAPFOuyWJoiYT1gedIhZhU-Bm4NsuUyY1mfNl0wtocEPpp27G7IaTkFXPoWEaAnbrEALw_wcB) |  [QNAP](https://www.qnap.com/en-us)      |
 
-**Taiwanese companies**
-- [Noodoe](https://www.noodoe.com/)
-- [TXOne Networks](https://www.txone.com/products/cps-protection-platform/sageone/)
-- [inline apps](https://inline.app/)
 
 ### Product guides I've worked on:
+
+
 **Hardware**
 - Network Attached Storage (NAS)
 - Network Switch
 - Video conference device
 
+
+
 **Software**
-- Data visualization applications
-- Cloud storage service
-- Cloud databases
-- Electric vehicle charger app
-- Electric vehicle charger operating system
-- IoT cybersecurity central management software
-- NAS apps
-- NAS operating systems
-- Restaurant customer management system app (includes restaurant booking management, online queuing management, table management, customer management, mobile texts, etc.)
-- User Identity as a Service 
+
+| Cloud platforms                    | Operating systems                          | Applications                  |
+|------------------------------------|--------------------------------------------|-------------------------------|
+| Data visualization applications    | Electric vehicle charger operating system  | Electric vehicle charger app  |
+| Cloud storage service              | NAS operating systems     | IoT cybersecurity central management software  |
+| Cloud databases                    |-                                           | NAS apps                      |
+|-                                   |-                                  | Restaurant customer management software|
+|-                                   |-                                            | User Identity as a Service   |
+
+[!Note] (The restaurant customer management system app includes booking management, online queuing management, table management, customer management, mobile texts, etc.)
+
 ### Special coding skills:
 - Markdown
 - HTML
