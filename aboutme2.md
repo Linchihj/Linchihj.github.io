@@ -23,10 +23,11 @@ I've worked on the following types of technical writing projects:
 - API docs
 
 ### Company projects I've previously worked on:
-| **International companis** | **Taiwanese companies** |
-| [Ubiquiti](https://ui.com/introduction) | [Noodoe](https://www.noodoe.com/)  |
-| [Alibaba Cloud](https://www.alibabacloud.com/en/product/datav?_p_lc=1)  |[TXOne Networks](https://www.txone.com/products/cps-protection-platform/sageone/)  |
-| [Huawei Cloud](https://www.huaweicloud.com/intl/en-us/)  | [inline apps](https://inline.app/)  |
+| **International companies**                                              | **Taiwanese companies** |
+|--------------------------------------------------------------------------|------------------------------------------------|
+| [Ubiquiti](https://ui.com/introduction)                                  | [Noodoe](https://www.noodoe.com/)              |
+| [Alibaba Cloud](https://www.alibabacloud.com/en/product/datav?_p_lc=1)   |[TXOne Networks](https://www.txone.com/products/cps-protection-platform/sageone/)  |
+| [Huawei Cloud](https://www.huaweicloud.com/intl/en-us/)                  | [inline apps](https://inline.app/)             |
 | [CSOFT International](https://www.csoftintl.com/?gad_source=1&gclid=Cj0KCQjw4MSzBhC8ARIsAPFOuyWJoiYT1gedIhZhU-Bm4NsuUyY1mfNl0wtocEPpp27G7IaTkFXPoWEaAnbrEALw_wcB) |  [QNAP](https://www.qnap.com/en-us)      |
 
 
