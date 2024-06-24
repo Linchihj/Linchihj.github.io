@@ -13,8 +13,7 @@
 title: Judy's Portfolio
 
 # Your name to show in the footer
-author: Judy Lin
-copyright: &copyright Judy Lin 2024 All rights reserved
+author: &copyright Judy Lin 2024 All rights reserved
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,7 +21,7 @@ copyright: &copyright Judy Lin 2024 All rights reserved
 
 navbar-links:
   About Me: 
-  - About Me: "aboutme2"
+  - Experience: "aboutme2"
   - My Story: "my_story"
   Resources:
    - Writing Samples: "writing_samples"
