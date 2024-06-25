@@ -1,3 +1,8 @@
+---
+layout: page
+title: How can I embed the inline payment widget on to my website?
+subtitle: inline app API tutorial
+---
 # How can I embed the inline payment widget on to my website?
 **Owner:** Judy Lin
 
@@ -282,3 +287,4 @@ The following are examples of error events returned for failed reservations:
     }
 }
 ```
+[Back](writing_samples.html)
