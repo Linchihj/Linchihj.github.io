@@ -23,7 +23,7 @@ I was immediately thrown into the deep end of cloud technology and was on a clou
 Through solving many different challenges, I now truly enjoy technical writing. I’m interested in further advancing my career in documenting SaaS applications and open-source software. I find software documentation challenging but at the same time rewarding when difficult concepts are transformed into easy-to-understand information. It is also rewarding to see yourself build up technical documentation from scratch.
 
 
-[![alt text](assets/img/my_video_thumb.png)]("assets/video/my_movie.mp4")
+[![alt text](assets/img/my_video_thumb.png "CSOFT International colleagues dancing joyfully")]("csoft_gif.html")
 
 I have a track record of being a fast learner, switching from one field to another and quickly picking up required skills as demonstrated by my education trajectory. My undergraduate background is in English literature from one of Taiwan’s most reputable universities, *National Tsing Hua University (NTHU)*. After graduating from NTHU, I continued further studies in the UK at the prestigious *The University of Warwick* and majored in International Relations and East Asian studies for my master's degree.
 
