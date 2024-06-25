@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How can I embed the inline payment widget on to my website?
 subtitle: inline app API tutorial
 ---
