@@ -62,8 +62,7 @@ The JSON request body schema is as follows:
 | placeId  | string    | required | The company ID.       |
 | forkId   | string    | required | The branch ID.        |
 | datetime | string    | required | The reservation time. |
-| groupSize| number    | required | The number of adults in a reservation. 
-                       The minimum number of adults is 1. |
+| groupSize| number    | required | The number of adults in a reservation. The minimum number of adults is 1. |
 | numberOfKidChairs | number | optional | The number of children who don’t need highchairs in a reservation. By default, this value is 0.               |
 | numberOfKidSets | number | optional | The number of children who need highchairs in a reservation. By default, this value is 0. |
 | label    | string    | optional | The table tag.        |
@@ -93,10 +92,7 @@ The JSON response body schema is as follows:
 | id           | string    | The intent ID.                                             |
 | total        | integer   | The total amount that will be charged for the booking. This includes no-show fees and any prepayments. The value can be 0 if no payment is required.|
 | currency     | string    | The currency code in ISO 4217 format.                      |
-| type         | string    | The booking payment type, which can be prepay or cardToken.
-**prepay**: A booking deposit paid by credit card.
-**cardToken**: An authorization hold placed on the patron’s credit card. The patron’s card isn’t charged at this point, but they will be charged for late cancellation or no-shows.
-                                                                                        |
+| type         | string    | The booking payment type, which can be prepay or cardToken. **prepay**: A booking deposit paid by credit card. **cardToken**: An authorization hold placed on the patron’s credit card. The patron’s card isn’t charged at this point, but they will be charged for late cancellation or no-shows.|
 | breakdown    | object   | The paid booking details based on the pricing categories.   |
 | >pprice      | number   | The deposit per person.                                     |
 | >minGroupSize| number   | The minimum number of people required for a booking.        |
@@ -104,10 +100,9 @@ The JSON response body schema is as follows:
 | >tprice      | number   | The price per table.                                        |
 | widgetURL    | string   | The payment widget URL for completed inline reservations.   |
 
-<aside>
-📋 **Note:** The following properties in the created payment intent should be displayed on your website for your user’s reference: `pricePerPerson`, `minGroupSize`, `gracePeriod`, and `pricePerTable`.
 
-</aside>
+> [!NOTE]
+> The following properties in the created payment intent should be displayed on your website for your user’s reference: `pricePerPerson`, `minGroupSize`, `gracePeriod`, and `pricePerTable`.
 
 ## Step 2: Configure the iframe for payment widget
 
@@ -173,11 +168,7 @@ Note that for the `pre_filled_form` field, you need to encode JSON string of the
 | >> phoneticFamilyName| string   | optional    | The family name written phonetically.     |
 | >> phoneticGivenName | string   | optional    | The given name written phonetically.      |
 | > SMS-phone          | string   | optional    | The patron’s phone number. The phone number prefix must include the country code.                                                       |
-| > gender            | number    | optional    | The patron’s gender.
-                                                 The following values and their definition as follows:
-                                                 0: Female
-                                                 1: Male
-                                                 2:Unspecified                                                                            |
+| > gender            | number    | optional    | The patron’s gender.The following values and their definition as follows: 0: Female /1: Male /2:Unspecified                                                |
 | > email           | string    | optional      | The patron’s email address.               |
 | customerNote      | string    | required      | The patron’s note for this reservation.   |
 
