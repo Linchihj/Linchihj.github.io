@@ -1,3 +1,8 @@
+---
+layout: default
+title: How can I embed the inline payment widget on to my website?
+permalink: assets/writing samples/how_can_I_embed_the_inline_payment_widget_test.md
+---
 # How can I embed the inline payment widget on to my website?
 
 ## Overview
