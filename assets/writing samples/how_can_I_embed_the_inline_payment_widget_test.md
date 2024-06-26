@@ -1,8 +1,5 @@
----
-layout: page
-title: How can I embed the inline payment widget on to my website?
-subtitle: Sample inline apps API documentation that I wrote
----
+# How can I embed the inline payment widget on to my website?
+
 ## Overview
 
 You can add the inline payment widget to your website to help users complete payments for paid bookings made through the inline’s booking page using an HTTP request.
