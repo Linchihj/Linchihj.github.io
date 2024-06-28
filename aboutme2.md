@@ -61,6 +61,9 @@ I've worked on the following types of technical writing projects:
 - Procreate
 - Visual Studio Code
 
+### Awards
+**Third place** at *2017 Business Next Editors Lab* event organized by **Global Editors Network**. Our team won the award for coming up with a VR eyetracking app, **Focals App**, to help map viewers eye movement and focus when watching news videos. For more details, click [here](https://www.linkedin.com/pulse/what-i-learned-from-gen-editors-lab-event-taipei-judy-lin/).
+
 For more details about my technical writing journey, see [My Story](my_story.md).
 
 [def]: assets/img/Judy_3%20copy.jpeg
