@@ -25,7 +25,7 @@ navbar-links:
   - My Story: "my_story"
   Resources:
    - Writing Samples: "writing_samples"
-   - Gallery: "gallery"
+   - Gallery: "gallery_test2"
    - Technical Writing: "https://github.com/topics/technical-writing"
    - Beautiful Jekyll: "https://beautifuljekyll.com"
    
