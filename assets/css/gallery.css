@@ -1,142 +1,200 @@
-@import url('https://fonts.googleapis.com/css?family=Inconsolata|Merriweather');
-
-$body: 'Inconsolata', monospace;
-$big: 'Merriweather', serif;
-
-$white: #ffffff;
-$primary: #F2DAD7;
-$secondary: #D1A39E;
-$light: #CECDCA;
-$dark: #474545;
-
-$ease: all 0.3s ease-in-out;
-
-body {
-  font-family: $body;
-  margin: 0;
-}
-
-button {
-  cursor: pointer;
-}
-
-#portfolio {
-  width: 100%;
-  min-height: 100vh;
-  background: $white;
-  position: relative;
-  display: grid;
-  grid-template-columns: repeat(4, minmax(200px, 1fr));
-  grid-template-rows: 1fr 1fr;
-  grid-gap: 2px;
-}
-.project {
-  position: relative;
-  background: $primary;
-  overflow: hidden;
-  img {
-    position: absolute;
-    opacity: 0.9;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
   }
-  p {
-    position: absolute;
-    text-align: center;
-    width: 100%;
-    padding: 1em 0;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    z-index: 3;
+  
+  body {
+    font-family: Poppins;
+    background-color: #cbc3f0;
   }
-  .grid__title {
+  
+  .heading {
+      text-align: center;
+      font-size: 2.0em;
+      letter-spacing: 1px;
+      padding: 40px;
+      color: white;
+  }
+  
+  .gallery-image {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .gallery-image img {
+    height: 350px;
+    width: 350px;
+    transform: scale(1.0);
+    transition: transform 0.4s ease;
+  }
+  
+  .img-box {
+    box-sizing: content-box;
+    margin: 10px;
+    height: 350px;
+    width: 350px;
+    overflow: hidden;
+    display: inline-block;
+    color: white;
+    position: relative;
+    background-color: white;
+  }
+  
+  .caption {
     position: absolute;
-    width: 100%;
-    text-align: center;
-    white-space: nowrap;
-    bottom: 0;
-    font-weight: 100;
+    bottom: 5px;
+    left: 20px;
+    opacity: 0.0;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  
+  .transparent-box {
+    height: 350px;
+    width: 350px;
+    background-color:rgba(0, 0, 0, 0);
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: background-color 0.3s ease;
+  }
+  
+  .img-box:hover img { 
+    transform: scale(1.1);
+  }
+  
+  .img-box:hover .transparent-box {
+    background-color:rgba(0, 0, 0, 0.5);
+  }
+  
+  .img-box:hover .caption {
+    transform: translateY(-20px);
+    opacity: 1.0;
+  }
+  
+  .img-box:hover {
+    cursor: pointer;
+  }
+  
+  .caption > p:nth-child(2) {
     font-size: 0.8em;
-    z-index: 3;
-    text-transform: uppercase;
-    color: $dark;
-    letter-spacing: 2px;
   }
-}
+  
+  .opacity-low {
+    opacity: 0.5;
+  }
 
-// project hover overlay
-.project:hover .grid__overlay {
-  transform: translateY(0%);
-}
-
-.grid__overlay {
-  background: rgba(darken($primary, 10%), .9);
-  height: 100%;
-  grid-column: 1 / -1;
-  grid-row: 1 / -1;
-  position: relative;
-  display: grid;
-  justify-items: center;
-  align-items: center;
-  transform: translateY(101%);
-  transition: $ease;
-  button {
-    background: none;
-    outline: none;
+  .poppins-thin {
+    font-family: "Poppins", sans-serif;
     font-weight: 100;
-    letter-spacing: 2px;
-    border: 1px solid $white;
-    color: $white;
-    text-transform: uppercase;
-    padding: 10px;
-    &:hover {
-      transition: $ease;
-      background: $white;
-      color: $secondary;
-      transform: scale(1.05);
-    }
+    font-style: normal;
   }
-}
-
-//project popup overlay
-
-.overlay {
-  position: fixed;
-  background: rgba($dark, 0.7);
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  display: none;
-  z-index: 3;
-}
-.overlay.open {
-  display: grid;
-  align-items: center;
-  justify-items: center;
-}
-
-.overlay__inner {
-  background: $white;
-  width: 700px;
-  padding: 20px;
-  position: relative;
-  opacity: 1;
-}
-
-.close {
-  position: absolute;
-  top: 3px;
-  right: 10px;
-  background: none;
-  outline: 0;
-  color: $dark;
-  border: 0;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  &:hover {
-    color: $secondary;
+  
+  .poppins-extralight {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
   }
-}
+  
+  .poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .poppins-thin-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .poppins-extralight-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .poppins-light-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .poppins-regular-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .poppins-medium-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .poppins-semibold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .poppins-bold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .poppins-extrabold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .poppins-black-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
 
-.project__image {
-  margin-left: -50%;
-}
+  .text {
+    text-align: center;
+
+  }
